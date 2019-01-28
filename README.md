@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/dutran0949/Testing/_apis/build/status/dtran-hcmcqa.pipelines-test?branchName=master)](https://dev.azure.com/dutran0949/Testing/_build/latest?definitionId=1?branchName=master)
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
